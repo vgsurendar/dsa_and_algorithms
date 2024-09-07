@@ -1,0 +1,20 @@
+The idea is to merge the characters alternatively from each of the index of the 2 words.
+
+Say word1[0] word2[0] word1[1] word2[1]
+
+It is clear that the length of the merged word will be the strlen(word1) + strlen(word2) + 1 (For null termination)
+
+We'll declare a new variable called new_word and pass the characters from either variables (word1 and word2) in for loop
+
+    for (i = 0; i < len1 || i < len2; i++) {
+
+        if (i < len1) {
+            new_word[k++] = word1[i];
+        }
+
+        if (i < len2) {
+            new_word[k++] = word2[i];
+        }
+    }
+
+In the for loop, we will pass the character to the new_word from each variable word1 and word2
