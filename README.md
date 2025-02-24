@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
