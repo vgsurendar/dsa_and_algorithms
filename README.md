@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
