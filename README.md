@@ -33,8 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3447-clear-digits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
