@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Stack
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
