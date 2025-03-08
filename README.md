@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0056-merge-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/3447-clear-digits) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
