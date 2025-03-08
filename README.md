@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0056-merge-intervals) |
+| [0136-single-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Stack
