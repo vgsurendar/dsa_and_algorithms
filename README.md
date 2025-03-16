@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
