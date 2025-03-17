@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1833-find-the-highest-altitude](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [1833-find-the-highest-altitude](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
