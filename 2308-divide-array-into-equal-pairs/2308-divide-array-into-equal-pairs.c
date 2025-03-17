@@ -7,8 +7,8 @@ bool divideArray(int* nums, int numsSize) {
         hashmap[nums[i]]++ ;
     }
 
-    for (i = 0; i < MAX_NUM; i++) {
-        if(hashmap[i] % 2 != 0) {
+    for (i = 0; i < numsSize; i++) {
+        if(hashmap[nums[i]] % 2 != 0) {
             return false;
         }
     }
