@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
