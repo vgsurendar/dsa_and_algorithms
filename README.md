@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/2308-divide-array-into-equal-pairs) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
 | ------- |
