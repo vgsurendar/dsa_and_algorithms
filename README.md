@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/2308-divide-array-into-equal-pairs) |
@@ -102,8 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
