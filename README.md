@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/2308-divide-array-into-equal-pairs) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0908-middle-of-the-linked-list) |
