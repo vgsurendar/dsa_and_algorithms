@@ -38,6 +38,7 @@ struct ListNode* getIntersectionNode(struct ListNode* headA,
         }
     }
 
+    /* Corner Case - If the length of both lists are 1 */
     if ((len1 == 1) && (len2 == 1)) {
         if (headA == headB) {
             return headA;
