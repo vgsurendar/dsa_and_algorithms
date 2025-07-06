@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/2308-divide-array-into-equal-pairs) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/2308-divide-array-into-equal-pairs) |
@@ -117,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
