@@ -1,15 +1,22 @@
 void sortColors(int* nums, int numsSize) {
-    
-    int i = 0, j = 0, temp = 0;
 
-    for (i = 0; i < numsSize; i++) {
-        for (j = 0; j < (numsSize - 1) ; j++) {
-            if (nums[j] > nums[j+1]) {
-                temp = nums[j];
-                nums[j] = nums[j+1];
-                nums[j+1] = temp;
-            }
+    int low = 0, mid = 0, high = numsSize - 1, temp = 0;
+
+    while (mid <= high) {
+        if (nums[mid] == 0) {
+            temp = nums[low];
+            nums[low] = nums[mid];
+            nums[mid] = temp;
+            low ++;
+            mid ++;
+        } else if (nums[mid] == 1) {
+            mid ++;
+        } else {
+            temp = nums[mid];
+            nums[mid] = nums[high];
+            nums[high] = temp;
+            high --;
         }
     }
-    
+    return;
 }
