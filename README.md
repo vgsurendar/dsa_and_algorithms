@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0455-assign-cookies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0594-longest-harmonious-subsequence) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0237-delete-node-in-a-linked-list) |
