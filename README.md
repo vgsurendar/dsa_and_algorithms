@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0234-palindrome-linked-list) |
 | [3447-clear-digits](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/vgsurendar/dsa_and_algorithms/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
