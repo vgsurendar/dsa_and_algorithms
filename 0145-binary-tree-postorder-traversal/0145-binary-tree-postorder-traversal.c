@@ -17,7 +17,7 @@
         return count;
     }
 
-    return (count +countNodes(root->left) + 1 + countNodes(root->right));
+    return (count + countNodes(root->left) + 1 + countNodes(root->right));
 }
 
 void traverse (struct TreeNode* root, int* idx, int* arr) {
